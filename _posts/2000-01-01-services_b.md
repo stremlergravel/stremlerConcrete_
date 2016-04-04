@@ -1,6 +1,6 @@
 ---
 layout: default
-img: sitedev.jpg
+img: concrete-1.jpg
 categories : [sitedev]
 title :  Service B
 ---
