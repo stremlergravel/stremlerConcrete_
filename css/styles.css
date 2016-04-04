@@ -1,4 +1,4 @@
-/* red: #d42027;
+/* blue: #1156a7;
 	light grey: #ddd;
 	dark grey: grey;
 */
@@ -215,7 +215,7 @@ h2:after {
 	display: block;
 	width: 110px;
 	height: 5px;
-	background: #d42027;
+	background: #1156a7;
 	margin-top: 1%;
 }
 
@@ -368,7 +368,7 @@ nav li a {
 }
 
 nav li a:hover {
-	color: #d42027;
+	color: #1156a7;
 	-webkit-transition: .3s;
 	-moz-transition:. .3s;
 	-o-transition:. .3s;
@@ -425,7 +425,7 @@ section img {
 }
 
 .landing button {
-	background: #d42027;
+	background: #1156a7;
 	border: none;
 	color: #fff;
 	display: inline-block;
@@ -543,7 +543,7 @@ section img {
 }
 
 .graveldelivery span {
-	color: #d42027;
+	color: #1156a7;
 	font-size: 1em;
 	text-decoration: none;
 }
@@ -599,12 +599,12 @@ section img {
 
 
 .calcTitle {
-	color: #d42027;
+	color: #1156a7;
 	margin-bottom: 0;
 }
 
 .submit {
-	background: #d42027;
+	background: #1156a7;
   color: #fff;
   border: none;
   padding: .4em 2.9em;
@@ -697,7 +697,7 @@ h3 {
 }
 
 .contact input#submit {
-	background: #d42027;
+	background: #1156a7;
 	color: #fff;
 }
 
@@ -788,7 +788,7 @@ h3 {
 
 .contact button,
 .calculator button {
-	background: #d42027;
+	background: #1156a7;
 	border: none;
 	color: white;
 	font-weight: 300;
@@ -844,7 +844,7 @@ h3 {
 
 .footer {
 	margin-bottom: 0;
-	background: #d42027;
+	background: #1156a7;
 	color: #fff;
 	height: 4em;
 }
@@ -931,7 +931,7 @@ html, body {
   text-align: left;
 	letter-spacing: .025em;
   font-weight: bold;
-  color: #d42027;
+  color: #1156a7;
   font-size: 1.5em;
 }
 
