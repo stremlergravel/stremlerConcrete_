@@ -1,6 +1,6 @@
 ---
 layout: defaut
-img: landingpage-4.jpg
+img: driveway.jpg
 categories: [calculator]
 title: Gravel Calculator
 ---
